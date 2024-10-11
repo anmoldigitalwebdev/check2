@@ -1,0 +1,359 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"palette": [
+				{
+					"color": "#F9F9F9",
+					"name": "Color 1",
+					"slug": "custom-color-1"
+				},
+				{
+					"color": "#F2F2F2",
+					"name": "Color 2",
+					"slug": "custom-color-2"
+				},
+				{
+					"color": "#37465C",
+					"name": "Color 3",
+					"slug": "custom-color-3"
+				},
+				{
+					"color": "#313131",
+					"name": "Color 4",
+					"slug": "custom-color-4"
+				},
+				{
+					"color": "#EFF1F5",
+					"name": "Color 5",
+					"slug": "custom-color-5"
+				},
+				{
+					"color": "#A5A7A9",
+					"name": "Color 6",
+					"slug": "custom-color-6"
+				},
+				{
+					"color": "#e8f0fc",
+					"name": "Color 7",
+					"slug": "custom-color-7"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "620px",
+			"wideSize": "1000px"
+		},
+		"spacing": {
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"typography": {
+			"defaultFontSizes": false,
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsSUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsWUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RdDJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8RNDJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRNDJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RNDJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORNDJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ9DJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ9DJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "800",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q9DJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "900",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05obVQ9DJTedX1sGE.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Libre Franklin\", sans-serif",
+					"name": "Libre Franklin",
+					"slug": "libre-franklin"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "ABeeZee",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/esDR31xSG-6AGleN6teukbcHCpE.woff2"
+							]
+						}
+					],
+					"fontFamily": "ABeeZee, sans-serif",
+					"name": "ABeeZee",
+					"slug": "abeezee"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Abhaya Libre\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/e3tmeuGtX-Co5MNzeAOqinEgfkPWovdU4w.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Abhaya Libre\", serif",
+					"name": "Abhaya Libre",
+					"slug": "abhaya-libre"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Abril Fatface\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/zOL64pLDlL1D99S8g8PtiKchm-VsjOLhZBY.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Abril Fatface\", system-ui",
+					"name": "Abril Fatface",
+					"slug": "abril-fatface"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Agbalumo",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/55xvey5uMdT2N37KZcMAirl08KDJ.woff2"
+							]
+						}
+					],
+					"fontFamily": "Agbalumo, system-ui",
+					"name": "Agbalumo",
+					"slug": "agbalumo"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Agdasima",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/PN_zRfyxp2f1fUCgAMg_rzjb_-Da.woff2"
+							]
+						}
+					],
+					"fontFamily": "Agdasima, sans-serif",
+					"name": "Agdasima",
+					"slug": "agdasima"
+				}
+			],
+			"fontSizes": [
+				{
+					"name": "Small",
+					"size": "14px",
+					"slug": "small"
+				},
+				{
+					"name": "Medium",
+					"size": "30px",
+					"slug": "medium"
+				},
+				{
+					"name": "Large",
+					"size": "54px",
+					"slug": "large"
+				},
+				{
+					"name": "xLarge",
+					"size": "76px",
+					"slug": "x-large"
+				},
+				{
+					"name": "xxLarge",
+					"size": "90px",
+					"slug": "xx-large"
+				}
+			]
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"blocks": {
+			"core/heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--libre-franklin)"
+				}
+			},
+			"core/list": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--libre-franklin)"
+				}
+			},
+			"core/paragraph": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--libre-franklin)"
+				}
+			},
+			"core/site-title": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--libre-franklin)"
+				}
+			}
+		},
+		"css": "body {\n  overflow-x: hidden;\n  scroll-behavior: smooth;\n}\n:where(.wp-site-blocks) > * {\n  margin-block-start: 0px !important;\n}\n::-webkit-scrollbar {\n  width: 10px;\n}\n\n::-webkit-scrollbar-track {\n  background: var(--wp--preset--color--custom-color-1);\n}\n\n::-webkit-scrollbar-thumb {\n  background: var(--wp--preset--color--custom-color-7);\n  border-radius: 10px;\n}\n.marquee{\n  max-width: 100vw;\n  overflow-x: hidden;\nmin-height:40px;\n}\n.marquee-text {\n  white-space: nowrap;\n}\n.shadow-marquee {\n  position: relative;\n  z-index: 999;\n  bottom: 70px;\n  width: 100%;\n  margin-bottom: -70px !important;\n}\n.wp-block-navigation-link {\n  padding: 16px 20px !important;\n  border-radius: 6px !important;\n  background-color: var(--wp--preset--color--custom-color-9) !important;\n}\ndetails summary {\n  list-style: none;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\ndetails summary::after {\n  content: \"\\1F862\";\n  transform: rotate(0deg);\n  font-size: 30px;\n  transition: 0.5s all;\n  width: 40px;\n  height: 40px;\n  line-height: 40px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  border-radius: 50%;\n  font-weight: 400;\n  background: transparent;\n  color: var(--wp--preset--color--custom-color-3);\n}\ndetails[open] summary::after {\n  content: \"\\1F862\";\n  transform: rotate(90deg);\n}\n.outer {\n  overflow-x: hidden;\n}\n.slider {\n  width: 300%;\n  height: 100vh;\n  display: flex;\n  flex-wrap: nowrap;\n}\n.section_x {\n  height: 100vh;\n  width: 100%;\n}\n\nul {\n  list-style: none;\n}\n\n.list-check {\n  list-style: none;\n  padding-inline-start: 0px;\n}\n.list-check li {\n  gap: 10px;\n  display: flex;\n}\n\n.list-check li:before {\n  content: \"✓\";\n}\n\n.product {\n  display: flex;\n  flex-direction: column;\n  align-items: stretch;\n  gap: 0;\n  border-radius: 20px;\n  padding-top: 0;\n  padding-right: 0;\n  padding-bottom: 0;\n  padding-left: 0;  background-color: var(--wp--preset--color--custom-color-2) !important;\n}\n.product img {\n  aspect-ratio: 4 / 3;\n  object-fit: cover;\n  box-sizing: border-box;\n  height: auto;\n  max-width: 100%;\n  vertical-align: bottom;\n}\n.product > div {\n  margin-bottom: 0px !important;\n}\n.price-cart {\n  background-color: var(--wp--preset--color--custom-color-7) !important;\n  border-radius: 0px 0px 10px 10px;\n}\n.wp-block-button.wc-block-components-product-button {\n  align-items: flex-start;\n\n}\n.wp-block-button.wc-block-components-product-button\n  .wc-block-components-product-button__button {\n  align-items: center;\n  border-style: none;\n  display: inline-flex;\n  justify-content: center;\n  line-height: inherit;\n  overflow: hidden;\n  white-space: normal;\n  word-break: break-word;\n  border-radius: 50px;\n  background-color: var(--wp--preset--color--custom-color-3);\n  color: var(--wp--preset--color--custom-color-1);\n  text-transform: uppercase;\n  font-family: \"Libre Franklin\";\n  margin-bottom: 0 !important;\n}\n.wp-block-post-title {\n  display: inline-block;\n  font-weight: normal;\n  text-transform: uppercase;\n  text-align: start;\n  margin-bottom: 0;\n}\n.woocommerce-Price-currencySymbol {\n  font-size: var(--wp--preset--font-size--small);\n  color: var(--wp--preset--color--custom-color-3);\n}\n.woocommerce-Price-amount.amount {\n  font-size: var(--wp--preset--font-size--medium);\n  text-align: start !important;\n  font-family: \"Libre Franklin\";\n  font-weight: semibold;\n}\n.woocommerce-Price-amount.amount bdi {\n  display: flex;\n  align-items: center;\n}\n.wc-block-grid__product-price {\n  text-align: start !important;\n\n}\n.wp-block-woocommerce-product-price {\n  margin-bottom: 0;\n  display: flex;\n  align-items: center;\n}\n.wp-block-post-terms{\n  border-radius: 20px;\n  padding: 5px 10px;\n\n  color: var(--wp--preset--color--custom-color-3);\n  background-color: var(--wp--preset--color--custom-color-7);\n}\n.arrow {\n  transition: 0.7s all;\n  cursor: pointer;\n}\n.arrow:hover {\n  transform: rotate(-45deg);\n}\n\n.woocommerce.wc-block-catalog-sorting select.orderby {\n  font-size: inherit;\n  padding: 10px 20px;\n  border-radius: 6px;\n  background-color: var(--wp--preset--color--custom-color-1);\n  color: var(--wp--preset--color--custom-color-3) !important;\n  border-color: var(--wp--preset--color--custom-color-3);\n}\n.wp-block-search__input {\n  appearance: none;\n  border: 1px solid var(--wp--preset--color--custom-color-3) !important;\n  flex-grow: 1;\n  margin-left: 0;\n  margin-right: 0;\n  min-width: 3rem;\n  border-radius: 6px;\n  background-color: transparent;\n  padding: 8px;\n  color: var(--wp--preset--color--custom-color-3) !important;\n  text-decoration: unset !important;\n}\n.wp-block-search__button {\n  background-color: var(--wp--preset--color--custom-color-1);\n  border-width: 0;\n  color: var(--wp--preset--color--custom-color-3) !important;\n  font-family: \"Libre Franklin\" !important;\n  color: #fff;\n  text-transform: uppercase;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n  padding: calc(0.667em + 2px) calc(1.333em + 2px);\n  text-decoration: none;\n  border-radius: 6px;\n}\n\n@media screen and (max-width: 768px) {\n  body {\n    --wp--preset--font-size--small: 15px !important;\n    --wp--preset--font-size--medium: 24px !important;\n    --wp--preset--font-size--large: 35px !important;\n    --wp--preset--font-size--x-large: 40px !important;\n    --wp--preset--spacing--20: 0.2rem !important;\n    --wp--preset--spacing--30: 0.5rem !important;\n    --wp--preset--spacing--40: 0.8rem !important;\n    --wp--preset--spacing--50: 1.2rem !important;\n    --wp--preset--spacing--60: 1.5rem !important;\n    --wp--preset--spacing--70: 1.8rem !important;\n    --wp--preset--spacing--80: 2rem !important;\n  }\n  .break-row {\n    flex-direction: column !important;\n  }\n  .break-reverse {\n    flex-direction: column-reverse !important;\n  }\n  .w100 {\n    width: 100% !important;\n    flex-basis: 100% !important;\n  }\n  .slider {\n    height: auto !important;\n  }\n  .section_x {\n    height: auto !important;\n  }\n  .web{\n    display: none !important;\n  }\n}\n"
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "header"
+		},
+		{
+			"area": "footer",
+			"name": "footer"
+		}
+	],
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json"
+}

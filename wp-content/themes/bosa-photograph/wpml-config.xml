@@ -1,0 +1,31 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_bosa-photograph">
+            <key name="bosa_photograph_header_phone_label" />
+            <key name="bosa_photograph_contact_phone" />
+            <key name="bosa_photograph_contact_email" />
+            <key name="bosa_photograph_contact_address" />
+            <key name="bosa_photograph_header_button_repeater" />
+            <key name="bosa_photograph_transparent_header_button_repeater" />
+            <key name="bosa_photograph_top_bar_name" />
+            <key name="bosa_photograph_responsive_header_menu_text" />
+            <key name="bosa_photograph_main_slider_button_repeater" />
+            <key name="bosa_photograph_banner_title" />
+            <key name="bosa_photograph_banner_subtitle" />
+            <key name="bosa_photograph_main_banner_buttons_repeater" />
+            <key name="bosa_photograph_highlight_posts_section_title" />
+            <key name="bosa_photograph_highlight_posts_section_description" />
+            <key name="bosa_photograph_latest_posts_section_title" />
+            <key name="bosa_photograph_latest_posts_section_description" />
+            <key name="bosa_photograph_feature_posts_section_title" />
+            <key name="bosa_photograph_feature_posts_section_description" />
+            <key name="bosa_photograph_blog_page_button_repeater" />
+            <key name="bosa_photograph_single_post_author_title" />
+            <key name="bosa_photograph_related_posts_title" />
+            <key name="bosa_photograph_woocommerce_sale_badge_text" />
+            <key name="bosa_photograph_woocommerce_sale_badge_percent" />
+            <key name="bosa_photograph_leading_brands_title" />
+            <key name="bosa_photograph_leading_brands_sub_title" />
+        </key>
+    </admin-texts>
+</wpml-config>

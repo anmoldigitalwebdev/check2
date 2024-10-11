@@ -1,0 +1,775 @@
+# Copyright (C) 2024 TheMagnifico52
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Weight Loss Trainer 0.2.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/weight-loss-trainer\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-16T20:26:33+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: weight-loss-trainer\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Weight Loss Trainer"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.themagnifico.net/products/free-weight-loss-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Weight Loss Trainer is a powerful and user-friendly WordPress theme designed to support individuals and businesses in the health and wellness industry. Tailored for weight loss trainers, nutritionists, fitness coaches, and fitness enthusiasts, this theme offers a visually appealing and intuitive platform to share expertise and engage with clients. Its clean and modern design ensures a professional online presence, captivating visitors with a welcoming layout that promotes a healthy lifestyle.The theme’s layout is strategically organized to highlight key information, making it easy for users to navigate through services, programs, and success stories. With a focus on user experience, the Weight Loss Trainer WordPress Theme provides a range of features to showcase fitness programs, nutritional advice, and client testimonials. The customizable elements allow trainers to personalize their site, reinforcing their brand identity and creating a unique online space.One of the standout benefits is the seamless integration of multimedia elements, allowing trainers to include videos, images, and testimonials. This enhances overall engagement and helps clients connect with the trainer’s approach and expertise. Responsive and mobile-friendly, the theme ensures a consistent experience across devices, catering to users who access the site on desktops, tablets, or smartphones. This adaptability is crucial in reaching a diverse audience and promoting healthy living to individuals on various platforms.Whether you're a fitness trainer, personal trainer, yoga instructor, or fitness consultant, this theme supports a wide array of health and fitness services, including asana, meditation, spiritual practices, and wellness coaching. It integrates seamlessly with Elementor for easy customization and is perfect for building a professional online presence for your gym, fitness center, or fitness classes. The theme is also ideal for those in bodybuilding, sports, spa, and beauty industries, ensuring that your website aligns with your mission of promoting fitness and wellness."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "TheMagnifico52"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.themagnifico.net/"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+#: comments.php:67
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:55
+#: comments.php:69
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:56
+#: comments.php:70
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:75
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name,
+#: footer.php:84
+msgid " %1$s "
+msgstr ""
+
+#. translators: 1: Theme author.
+#: footer.php:89
+msgid "by %1$s."
+msgstr ""
+
+#: footer.php:101
+msgid "TOP"
+msgstr ""
+
+#: functions.php:40
+msgid "Primary"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:86
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:94
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:104
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:341
+msgid "https://wordpress.org/support/theme/weight-loss-trainer/"
+msgstr ""
+
+#: functions.php:344
+msgid "https://wordpress.org/support/theme/weight-loss-trainer/reviews/"
+msgstr ""
+
+#: functions.php:347
+msgid "https://demo.themagnifico.net/weight-loss-trainer/"
+msgstr ""
+
+#: functions.php:350
+msgid "https://www.themagnifico.net/products/fitness-trainer-wordpress-theme"
+msgstr ""
+
+#: functions.php:353
+msgid "https://demo.themagnifico.net/eard/wathiqa/weight-loss-trainer-pro-doc/"
+msgstr ""
+
+#: functions.php:356
+msgid "https://demo.themagnifico.net/eard/wathiqa/weight-loss-trainer-free-doc/"
+msgstr ""
+
+#: functions.php:364
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:364
+msgid " Theme Options"
+msgstr ""
+
+#: functions.php:374
+msgid "Welcome To "
+msgstr ""
+
+#: functions.php:379
+#: functions.php:382
+msgid "Contact Support"
+msgstr ""
+
+#: functions.php:380
+msgid "Thank you for trying Weight Loss Trainer , feel free to contact us for any support regarding our theme."
+msgstr ""
+
+#: functions.php:388
+msgid "Checkout Premium"
+msgstr ""
+
+#: functions.php:389
+msgid "Our premium theme comes with extended features like demo content import , responsive layouts etc."
+msgstr ""
+
+#: functions.php:391
+msgid "Get Premium"
+msgstr ""
+
+#: functions.php:397
+#: functions.php:400
+msgid "Review"
+msgstr ""
+
+#: functions.php:398
+msgid "If You love Weight Loss Trainer theme then we would appreciate your review about our theme."
+msgstr ""
+
+#: functions.php:407
+#: functions.php:410
+msgid "Free Documentation"
+msgstr ""
+
+#: functions.php:408
+msgid "Our guide is available if you require any help configuring and setting up the theme. Easy and quick way to setup the theme."
+msgstr ""
+
+#: functions.php:418
+msgid "Free Vs Premium"
+msgstr ""
+
+#: functions.php:421
+msgid "Checkout Documentation"
+msgstr ""
+
+#: functions.php:424
+msgid "View Theme Demo"
+msgstr ""
+
+#: functions.php:432
+msgid "Theme Feature"
+msgstr ""
+
+#: functions.php:433
+msgid "Basic Version"
+msgstr ""
+
+#: functions.php:434
+msgid "Premium Version"
+msgstr ""
+
+#: functions.php:440
+msgid "Header Background Color"
+msgstr ""
+
+#: functions.php:445
+msgid "Custom Navigation Logo Or Text"
+msgstr ""
+
+#: functions.php:450
+msgid "Hide Logo Text"
+msgstr ""
+
+#: functions.php:456
+msgid "Premium Support"
+msgstr ""
+
+#: functions.php:461
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: functions.php:466
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: functions.php:472
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: functions.php:477
+msgid "Pagespeed Plugin"
+msgstr ""
+
+#: functions.php:482
+msgid "Only Show Header Image On Front Page"
+msgstr ""
+
+#: functions.php:487
+msgid "Show Header Everywhere"
+msgstr ""
+
+#: functions.php:492
+msgid "Custom Text On Header Image"
+msgstr ""
+
+#: functions.php:497
+msgid "Full Width (Hide Sidebar)"
+msgstr ""
+
+#: functions.php:502
+msgid "Only Show Upper Widgets On Front Page"
+msgstr ""
+
+#: functions.php:507
+msgid "Replace Copyright Text"
+msgstr ""
+
+#: functions.php:512
+msgid "Customize Upper Widgets Colors"
+msgstr ""
+
+#: functions.php:517
+msgid "Customize Navigation Color"
+msgstr ""
+
+#: functions.php:522
+msgid "Customize Post/Page Color"
+msgstr ""
+
+#: functions.php:527
+msgid "Customize Blog Feed Color"
+msgstr ""
+
+#: functions.php:532
+msgid "Customize Footer Color"
+msgstr ""
+
+#: functions.php:537
+msgid "Customize Sidebar Color"
+msgstr ""
+
+#: functions.php:542
+msgid "Customize Background Color"
+msgstr ""
+
+#: functions.php:547
+msgid "Importable Demo Content\t"
+msgstr ""
+
+#: functions.php:555
+msgid "Go Premium"
+msgstr ""
+
+#: functions.php:583
+msgid "Thank You For Choosing "
+msgstr ""
+
+#: functions.php:584
+msgid "Get Started With Theme By Clicking On Getting Started."
+msgstr ""
+
+#: functions.php:585
+msgid "Get started"
+msgstr ""
+
+#: functions.php:586
+msgid "Documentation"
+msgstr ""
+
+#: functions.php:589
+msgid "View Demo"
+msgstr ""
+
+#: header.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:14
+msgid "Weight Loss Trainer Pro"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Buy Weight Loss Trainer Pro"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "GET PREMIUM"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Enable Disable Title"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Enable Disable Tagline"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Global Settings"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Change the global color of the theme in one click."
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Heading Fonts"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Heading Font Size"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Paragraph Color"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Paragraph Fonts"
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Paragraph Font Size"
+msgstr ""
+
+#: inc/customizer.php:309
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Wide Width"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "Boxed Width"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer.php:337
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Show Theme Preloader"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Preloader Background Color"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Preloader First Dot Color"
+msgstr ""
+
+#: inc/customizer.php:378
+msgid "Preloader Second Dot Color"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Show Theme Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:402
+#: inc/customizer.php:710
+#: inc/customizer.php:726
+#: inc/customizer.php:770
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:403
+#: inc/customizer.php:708
+#: inc/customizer.php:724
+#: inc/customizer.php:768
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:404
+#: inc/customizer.php:709
+#: inc/customizer.php:725
+#: inc/customizer.php:769
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Product per row"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "Top Header Option"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Topbar Text"
+msgstr ""
+
+#: inc/customizer.php:447
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Mail Id"
+msgstr ""
+
+#: inc/customizer.php:469
+msgid "Header Button"
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Header Button Url"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:496
+msgid "Slider Heading"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Select Slide Page"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Slider image size (1400 x 550)"
+msgstr ""
+
+#: inc/customizer.php:518
+msgid "Popular Recipes Option"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Popular Short Heading"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Popular Heading"
+msgstr ""
+
+#: inc/customizer.php:562
+msgid "Select Category to display Popular Recipes"
+msgstr ""
+
+#: inc/customizer.php:568
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer.php:578
+msgid "Enable Post Page Title"
+msgstr ""
+
+#: inc/customizer.php:580
+msgid "Check this box to enable title on post page."
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Enable Post Page Meta"
+msgstr ""
+
+#: inc/customizer.php:591
+msgid "Check this box to enable meta on post page."
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Enable Post Page Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:602
+msgid "Check this box to enable thumbnail on post page."
+msgstr ""
+
+#: inc/customizer.php:611
+msgid "Enable Post Page Content"
+msgstr ""
+
+#: inc/customizer.php:613
+msgid "Check this box to enable content on post page."
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "Single Post Page Image Border Radius"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "Single Post Page Image Box Shadow"
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "Enable Single Post Page Content"
+msgstr ""
+
+#: inc/customizer.php:656
+msgid "Check this box to enable content on single post page."
+msgstr ""
+
+#: inc/customizer.php:665
+msgid "Show / Hide Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:671
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:690
+msgid "Footer Background Image Position"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid "fixed"
+msgstr ""
+
+#: inc/customizer.php:693
+msgid "scroll"
+msgstr ""
+
+#: inc/customizer.php:705
+msgid "Footer Widget Heading Alignment"
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Footer Widget Content Alignment"
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "Show / Hide Copyright"
+msgstr ""
+
+#: inc/customizer.php:745
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "Replace the footer text"
+msgstr ""
+
+#: inc/customizer.php:765
+msgid "Copyright Content Alignment"
+msgstr ""
+
+#: inc/customizer.php:781
+msgid "Customizer Options"
+msgstr ""
+
+#: inc/feature-meta.php:4
+msgid "Custom fields for Popular Recipes"
+msgstr ""
+
+#: inc/feature-meta.php:21
+msgid "Preparation Time"
+msgstr ""
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:27
+#: inc/template-tags.php:33
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:42
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:142
+#: inc/template-tags.php:162
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr ""
+
+#: page-template/home-template.php:44
+msgid "LEARN MORE"
+msgstr ""
+
+#: page-template/home-template.php:86
+msgid "SEE RECIPE"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Right Sidebar"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-audio.php:41
+#: template-parts/content-gallery.php:29
+#: template-parts/content-image.php:24
+#: template-parts/content-search.php:15
+#: template-parts/content-single.php:22
+#: template-parts/content-video.php:40
+#: template-parts/content.php:26
+msgid "BY"
+msgstr ""
+
+#: template-parts/content-audio.php:52
+#: template-parts/content-gallery.php:40
+#: template-parts/content-image.php:35
+#: template-parts/content-search.php:21
+#: template-parts/content-video.php:51
+#: template-parts/content.php:37
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23
+#: template-parts/content-single.php:42
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:35
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:31
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/navigation/nav.php:14
+msgid "Top Menu"
+msgstr ""
+
+#: template-parts/topheader/topheader.php:22
+msgid "Call Us "
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
